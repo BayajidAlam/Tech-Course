@@ -1,0 +1,6 @@
+.container .navbar{
+  background-color:white;
+}
+.overlay{
+  filter: brightness(50%);
+}
