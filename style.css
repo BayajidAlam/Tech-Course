@@ -1,3 +1,11 @@
 .overlay{
   filter: brightness(50%);
 }
+.course-bg-danger{
+  background-color: #289BDE;
+  color: white;
+}
+.reg-btn{
+  background-color: white;
+  color: #289BDE;
+}
